@@ -1,10 +1,3 @@
-# Name: Lily Woolley
-# OSU Email: woolleyw@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: 2
-# Due Date: 1/31/22
-# Description: Implementation of a dynamic array
-
 from static_array import *
 
 
