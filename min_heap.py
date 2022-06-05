@@ -1,11 +1,3 @@
-# Name: Lily Woolley
-# OSU Email: woolleyw@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: 5
-# Due Date: 2/28/22
-# Description: Implentation of a Min Heap Data Structure
-
-# Import DynamicArray from Assignment 2
 from itertools import count
 from os import remove
 from dynamic_array import *
